@@ -15,7 +15,7 @@ class Catt extends Component {
 
   getCats() {
     const apiKey =
-      "";
+      "live_SQJlfnEUgVpG1TugdU1kHCU4f172lCupVjTzQdnJPymHmmpijTMqcdCVfty4g8pa";
     const apiUrl = "https://api.thecatapi.com/v1/images/search?limit=20";
 
     const headers = {
